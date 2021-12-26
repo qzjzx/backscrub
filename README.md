@@ -3,3 +3,5 @@
 × [ || { ¬ } ¦¦ ]
 
 ©. {IP} bandspace. 
+
+™. binary ternary quaternary. 
