@@ -7,3 +7,5 @@
 ™. binary ternary quaternary. 
 
 river = ethereum
+
+< night\day >
