@@ -2,9 +2,9 @@
 
 × [ || { ¬ } ¦¦ ]
 
-©. {IP} bandspace. 
+object json array. 
 
-™. binary ternary quaternary. 
+binary ternary quaternary. 
 
 river = ethereum
 
