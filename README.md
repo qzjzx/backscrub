@@ -11,3 +11,5 @@ river === ethereum
 **-** = 0 Kelvin
 
 < night\day >
+
+CUDA VPU DIF 802.11
